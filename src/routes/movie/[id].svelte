@@ -15,7 +15,7 @@
 </script>
 
 <script>
-	export let git remote add origin  <REMOTE_URL> ;
+	export let searchedMovie
 </script>
 
 <section>
